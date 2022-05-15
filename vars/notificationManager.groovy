@@ -43,7 +43,7 @@ def notifyEmail(buildStatus) {
             "downloadUrl"   :   "www.downloadurl.com"
         ]);
 
-        mail (to: 97c80a7e7e-d118f8@inbox.mailtrap.io ,
+        mail (to: '97c80a7e7e-d118f8@inbox.mailtrap.io' ,
             subject: "${icon} [ ${env.JOB_NAME} ] [${env.BUILD_NUMBER}] - ${buildStatus} ",
             body: body,
             mimeType: 'text/html'
