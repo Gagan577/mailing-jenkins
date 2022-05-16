@@ -36,7 +36,7 @@ def call(String buildStatus,String ver) {
         }
 
         def body = emailTemplate([
-            "jenkinsText"   :   env.STAGE_NAME,
+            "jenkinsText"   :   ver,
             "jenkinsUrl"    :   env.BUILD_URL,
             "statusSuccess" :   ver,
             "hasArtifacts"  :   hasArtifacts,
