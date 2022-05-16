@@ -16,7 +16,7 @@
       <tr>
         <td rowspan="2" colspan="1" style="padding-left: 10px;"></td>
         <td rowspan="2" colspan="2" style="padding: 0 0 10px 0;width: 156px;text-align: center;">
-          <img alt="amalogo" src="https://github.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png">
+          <img alt="logo" src="https://raw.githubusercontent.com/abitrian/mailing-jenkins/master/img/logo.png">
         </td>
         <td colspan="3" style="font-family: Lato-Bold, Helvetica; font-size: 12px; color: #343B49; letter-spacing: 2px; line-height: 16px; text-transform: uppercase;">
           logo Workflow Tool
@@ -45,7 +45,7 @@
       <tr>
         <td rowspan="3" colspan="1"></td>
         <td rowspan="3" colspan="2" style="text-align: center;">
-          <img alt="jenkins" src="https://github.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png">
+          <img alt="jenkins" src="https://raw.githubusercontent.com/abitrian/mailing-jenkins/master/img/jenkins.png">
         </td>
         <td colspan="2" style="vertical-align: bottom;font-family: Georgia; font-weight: bold; font-size: 16px; color: #343B49; letter-spacing: 1px; line-height: 16px;">
           Jenkins
