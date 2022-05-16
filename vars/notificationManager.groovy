@@ -21,7 +21,7 @@ def emailTemplate(params) {
  * @param buildStatus String with job result
  * @param emailRecipients Array with emails: emailRecipients = []
  */
-def call(String buildStatus) {
+def call(String buildStatus,String ver) {
 
     try {
 
@@ -38,7 +38,7 @@ def call(String buildStatus) {
         def body = emailTemplate([
             "jenkinsText"   :   env.STAGE_NAME,
             "jenkinsUrl"    :   env.BUILD_URL,
-            "statusSuccess" :   statusSuccess,
+            "statusSuccess" :   ver,
             "hasArtifacts"  :   hasArtifacts,
             "downloadUrl"   :   "www.downloadurl.com"
         ]);
