@@ -16,7 +16,7 @@
       <tr>
         <td rowspan="2" colspan="1" style="padding-left: 10px;"></td>
         <td rowspan="2" colspan="2" style="padding: 0 0 10px 0;width: 156px;text-align: center;">
-          <img alt="logo" src="https://raw.githubusercontent.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png>
+          <img alt="amalogo" src="https://raw.githubusercontent.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png>
         </td>
         <td colspan="3" style="font-family: Lato-Bold, Helvetica; font-size: 12px; color: #343B49; letter-spacing: 2px; line-height: 16px; text-transform: uppercase;">
           logo Workflow Tool
