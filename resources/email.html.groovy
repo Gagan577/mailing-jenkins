@@ -15,7 +15,7 @@
       </tr>
       <tr>
         <td rowspan="2" colspan="1" style="padding-left: 10px;"></td>
-        <td rowspan="2" colspan="2" style="padding: 0 0 10px 0;width: 156px;text-align: center;">
+        <td rowspan="2" colspan="2" style="padding: 0 0 20px 0;width: 200px;text-align: center;">
           <img alt="logo" src="https://github.com/Gagan577/mailing-jenkins/blob/master/resources/img/logo.png">
         </td>
         <td colspan="3" style="font-family: Lato-Bold, Helvetica; font-size: 12px; color: #343B49; letter-spacing: 2px; line-height: 16px; text-transform: uppercase;">
