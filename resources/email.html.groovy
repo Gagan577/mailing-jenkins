@@ -45,7 +45,7 @@
       <tr>
         <td rowspan="3" colspan="1"></td>
         <td rowspan="3" colspan="2" style="text-align: center;">
-          <img alt="jenkins" src="https://raw.githubusercontent.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png">
+          <img alt="jenkins" src="https://github.com/Gagan577/mailing-jenkins/blob/master/resources/img/amalogo.png">
         </td>
         <td colspan="2" style="vertical-align: bottom;font-family: Georgia; font-weight: bold; font-size: 16px; color: #343B49; letter-spacing: 1px; line-height: 16px;">
           Jenkins
