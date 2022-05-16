@@ -9,8 +9,8 @@ import groovy.text.StreamingTemplateEngine
  */
 def emailTemplate(params) {
 
-    def fileName = "email.html.groovy"
-    def fileContents = libraryResource(fileName)
+    //def fileName = "email.html.groovy"
+    def fileContents = libraryResource("email.html.groovy")
     def engine = new StreamingTemplateEngine()
 
     return engine.createTemplate(fileContents).make(params).toString()
