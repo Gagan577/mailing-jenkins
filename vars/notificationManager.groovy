@@ -44,7 +44,7 @@ def call(String buildStatus) {
         ]);
 
         mail (to: '97c80a7e7e-d118f8@inbox.mailtrap.io' ,
-            subject: "${icon} [ ${env.JOB_NAME} ] [${env.BUILD_NUMBER}] - ${buildStatus} ",
+            subject: "${icon} [ ${env.JOB_NAME} ] [${env.BUILD_NUMBER}] - ${buildStatus}-${env.STAGE_NAME}",
             body: body,
             mimeType: 'text/html'
         );
